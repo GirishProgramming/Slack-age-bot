@@ -14,8 +14,8 @@ A simple Slack bot built with Go and the **slacker** package to calculate age ba
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the Repository
 ```sh
+### 1️⃣ Clone the Repository
 git clone https://github.com/your-username/slack-bot-age-calculator.git
 cd slack-bot-age-calculator
 2️⃣ Set Up Slack Tokens
